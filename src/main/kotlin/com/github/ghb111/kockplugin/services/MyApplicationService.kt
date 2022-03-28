@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ghb111.kockplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ghb111.kockplugin.MyBundle
 
 class MyApplicationService {
 
